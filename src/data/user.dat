@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5f88b9cb2c6be286e6812eb8"},"userName":"KSanders","Password":"password123","addedAt":{"$date":"2020-10-15T21:06:19.703Z"},"updatedAt":{"$date":"2020-10-15T21:06:19.703Z"}}
