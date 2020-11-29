@@ -80,7 +80,7 @@ export function ContactForm() {
             <label></label>
             <div className="control">
               <div className="buttons">
-                <button className="button greenBackground has-text-white" type="submit">Submit</button>
+                <button className="button is-info has-text-white" type="submit">Submit</button>
               </div>
             </div>
           </div>
